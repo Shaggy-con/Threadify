@@ -25,3 +25,4 @@ Threadify is a full-stack web application that allows users to upload and share 
 4. Start the server: `node server.js`
 5. Start the frontend: `npm run dev`
 
+# Threadify
