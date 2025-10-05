@@ -1,4 +1,4 @@
-# Threadify
+# Threadlify
 
 Threadify is a full-stack web application that allows users to upload and share blogs with tags. Users can create blogs collaboratively in real-time and follow other users to view their blogs. The application includes features for filtering, reading, and sharing blogs.
 
